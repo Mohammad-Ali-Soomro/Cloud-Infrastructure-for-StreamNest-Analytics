@@ -1,7 +1,4 @@
 # Cloud Infrastructure for StreamNest Analytics
-### CE-308 Cloud Computing | Assignment 02 | GIKI
-
-**Student:** Mohammad Ali | **Reg No:** 2023326 | **Instructor:** Mam Safia Baloch
 
 ---
 
@@ -292,12 +289,12 @@ top_content_by_watchtime   TABLE
 
 | Screenshot | Description |
 |---|---|
-| ![](screenshots/3.png) | Docker build success and image created |
-| ![](screenshots/5.png) | Docker image in Artifact Registry |
-| ![](screenshots/7.png) | Pods running with public IP and live API response |
-| ![](screenshots/8.png) | Cloud Storage bucket with raw dataset |
-| ![](screenshots/9.png) | BigQuery top content by watch time |
-| ![](screenshots/13.png) | Scaling to 4 pods and rolling update success |
+| ![](3.png) | Docker build success and image created |
+| ![](5.png) | Docker image in Artifact Registry |
+| ![](7.png) | Pods running with public IP and live API response |
+| ![](8.png) | Cloud Storage bucket with raw dataset |
+| ![](9.png) | BigQuery top content by watch time |
+| ![](13.png) | Scaling to 4 pods and rolling update success |
 
 ---
 
